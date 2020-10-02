@@ -1,3 +1,4 @@
+
 const inventory = {
     items: ['Knife', 'Gas mask'],
     add(itemName) {
@@ -42,4 +43,5 @@ const inventory = {
   
   console.log(arrayRemove);
   // ['Knife', 'Medkit']
+
   

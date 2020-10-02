@@ -1,3 +1,4 @@
+
 const add = (accum, element) => accum + element;
 const mult = (accum, element) => accum * element;
 const sub = (accum, element) => accum - element;

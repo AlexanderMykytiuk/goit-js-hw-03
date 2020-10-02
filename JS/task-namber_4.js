@@ -1,3 +1,4 @@
+
 const account = {
     owner: 'Mango',
     balance: 24000,
@@ -30,4 +31,3 @@ const account = {
   
   console.log(account.showOrders());
   // ['order-1', 'order-2', 'order-3', 'order-4']
-  
